@@ -1,6 +1,5 @@
 {
-  "name": "angular-i18n-lts",
-  "version": "1.8.4",
+  "version": "1.8.5",
   "license": "MIT",
   "ignore": [
     "**/.*",

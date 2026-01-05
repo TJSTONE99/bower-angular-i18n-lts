@@ -1,6 +1,6 @@
 {
   "name": "angular-i18n-lts",
-  "version": "1.8.4",
+  "version": "1.8.5",
   "description": "AngularJS i18n LTS (Long Term Support) - AngularJS internationalization files",
   "license": "MIT",
   "author": "Angular Core Team <angular-core+npm@google.com>",
@@ -17,7 +17,7 @@
     "angular"
   ],
   "peerDependencies": {
-    "angular-lts": "1.8.4"
+    "angular-lts": "1.8.5"
   },
   "jspm": {
     "shim": {
