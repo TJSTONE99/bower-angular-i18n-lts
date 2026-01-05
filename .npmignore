@@ -1,1 +1,7 @@
 precommit.sh
+bower.json
+.bower.json
+.git/
+.gitignore
+*.md
+!README.md
